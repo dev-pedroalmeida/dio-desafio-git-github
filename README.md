@@ -1,3 +1,3 @@
-# Dio Desafio - Git/Github
+# DIO: Desafio - Git/Github
 
 Desafio de criação de um projeto no Git/Github

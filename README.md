@@ -2,4 +2,4 @@
 
 Desafio de criação de um projeto no Git/Github
 
-[Link da DIO](https://www.dio.me/)
+Link do site da [DIO](https://www.dio.me/)
